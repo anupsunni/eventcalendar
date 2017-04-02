@@ -3,7 +3,7 @@ A ver simple PHP/MySQL Based event calendar.
 jQuery has been used.
 
 ## Installation
-Is automatic, that is database and table gets created automatically
+Is automatic, that is, database and table gets created automatically
 
 ## Calendar When View Type is "month"
 ![screenshot 178](https://cloud.githubusercontent.com/assets/20037817/24586080/e1f18270-17b6-11e7-82e2-59b014885c23.png)
