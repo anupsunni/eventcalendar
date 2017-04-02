@@ -1,5 +1,5 @@
 # Eventcalendar
-A ver simple PHP/MySQL Based event calendar.
+A very simple PHP/MySQL Based event calendar.
 jQuery has been used.
 
 ## Installation
