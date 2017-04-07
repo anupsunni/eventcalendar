@@ -8,7 +8,7 @@ $month=	$_POST['month'];
 $day=	$_POST['day'];
 $time=	$_POST['time'];
 
-$sql_create_Table=
+$SQL_Cal_Table=
 "
 CREATE TABLE IF NOT EXISTS `eventcalendar`
 (
@@ -21,7 +21,7 @@ time varchar(255),
 rep varchar(255)
 )
 ";
-$SqlTable=$con->query($sql_create_Table);
+$SqlTable=$con->query($SQL_Cal_Table);
 
 $sql_insert=
 	"
